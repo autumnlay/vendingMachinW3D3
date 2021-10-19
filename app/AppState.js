@@ -10,6 +10,7 @@ class AppState extends EventEmitter {
     new Snack('Mountain Sprite', 2.50),
     new Snack('Root Dew', 5.75)
   ]
+  money = 0
 
 }
 
